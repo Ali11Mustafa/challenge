@@ -1,4 +1,4 @@
-```markdown
+
 # Health 360 - React Application
 
 Welcome to Health 360, a React application that provides information about health-related products. This README will guide you through setting up and running the app on your local development environment.
@@ -46,23 +46,7 @@ Health 360 uses a fake API for demonstration purposes. To run the fake API serve
 
 The fake API server will be available at `http://localhost:3004`. The app will make API requests to this server to fetch product data.
 
-## Contributing
 
-We welcome contributions! If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository on GitHub.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear, concise commit messages.
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Happy coding! ðŸš€
 -----------------------------------------
 
 Redux Setup Documentation
