@@ -16,35 +16,34 @@ Follow these steps to set up and run the Health 360 app:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/health-360.git
+   https://github.com/Ali11Mustafa/challenge.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd health-360
+   cd react-productCard-component
    ```
-
-3. Install project dependencies and run the app:
-
-   ```shell
-   npm install
-   npm run dev
-   ```
-
-This command will start the development server, and you can access the app in your web browser at `http://localhost:3000`.
-
 ## Running the Fake API
 
 Health 360 uses a fake API for demonstration purposes. To run the fake API server, follow these steps:
 
-1. Start the fake API server by running the following command in the project directory:
+2. Start the fake API server by running the following command in the project directory:
 
    ```shell
    npx json-server --watch db.json --port 3004
    ```
 
 The fake API server will be available at `http://localhost:3004`. The app will make API requests to this server to fetch product data.
+
+4. Install project dependencies and run the app:
+
+   ```shell
+   npm install
+   npm run dev
+   ```
+
+
 
 -----------------------------------------
 
