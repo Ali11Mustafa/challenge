@@ -46,7 +46,6 @@ Health 360 uses a fake API for demonstration purposes. To run the fake API serve
 
 The fake API server will be available at `http://localhost:3004`. The app will make API requests to this server to fetch product data.
 
-
 -----------------------------------------
 
 Redux Setup Documentation
