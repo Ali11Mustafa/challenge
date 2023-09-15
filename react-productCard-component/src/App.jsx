@@ -21,14 +21,13 @@ function App() {
         {" "}
         <BeatLoader
           color="#36d7b7"
-          cssOverride={{ backgroundColor: "white", padding: 0 }}
         />
       </div>
     );
   }
 
   if (status === "failed") {
-    return <div className="error" style={{color:"white"}}>Error: {error}</div>;
+    return <div className="error" style={{color:"white",width:"fit-content", marginInline:"auto", height:"100vh"}}>Error: {error}</div>;
   }
 
   return (
