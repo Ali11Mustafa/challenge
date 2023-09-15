@@ -28,7 +28,7 @@ function App() {
   }
 
   if (status === "failed") {
-    return <div>Error: {error}</div>;
+    return <div className="error" style={{color:"white"}}>Error: {error}</div>;
   }
 
   return (
