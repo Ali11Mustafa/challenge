@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Pharmacy",
+      "price": 23.99,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, dolorum?",
+      "imageUrl": "https://health-360.co/images/applications/pharmacy_logo.webp"
+    },
+    {
+      "id": 2,
+      "name": "Secretary",
+      "price": 18.99,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, dolorum?",
+      "imageUrl": "https://health-360.co/images/applications/secretary_logo.webp"
+    },
+    {
+      "id": 3,
+      "name": "Clinic",
+      "price": 30.99,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, dolorum?",
+      "imageUrl": "https://health-360.co/images/applications/clinic_logo.webp"
+    },
+    {
+      "id": 4,
+      "name": "Lab",
+      "price": 43.99,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, dolorum?",
+      "imageUrl": "https://health-360.co/images/applications/LAB_logo.webp"
+    },
+    {
+      "id": 5,
+      "name": "Hospital",
+      "price": 19.99,
+      "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, dolorum?",
+      "imageUrl": "https://health-360.co/images/applications/hospital_logo.webp"
+    }
+  ]
+}
